@@ -1,0 +1,14 @@
+{
+    "name": "promise-queue",
+    "version": "0.0.1",
+    "description": "Promise queue",
+    "main": "index.js",
+    "scripts": {
+        "test": "intern-client config=test/intern reporters=Console"
+    },
+    "devDependencies": {
+        "chai": "^1.9.1",
+        "chai-http": "^1.0.0",
+        "intern": "^2.2.2"
+    }
+}
